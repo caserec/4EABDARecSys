@@ -1,15 +1,16 @@
-# 4EABDARecSys
+# Entendendo o valor dos sistemas de recomendação personalizados para o e-business/negócios 
 
-Material do curso Entendendo o valor dos sistemas de recomendação personalizados para o e-business/negócios 
+## Evento
 
-
-### Resumo
-
-A pesquisa na área de sistemas de recomendação é amplamente focada em ajudar usuários individuais a encontrar itens nos quais estão interessados. Isso geralmente é feito aprendendo a classificar os itens recomendáveis com base na suposta relevância para cada usuário. O objetivo implícito subjacente de tal sistema é afetar os usuários de diferentes maneiras positivas, por exemplo, facilitando seus processos de pesquisa e decisão ou ajudando-os a descobrir coisas novas. Esse curso faz uma análise do campo dos sistemas de recomendação, incluindo conceitos relevantes, principais tecnologias, tendễncias de mercado e aplicação prática dos algoritmos mais conhecidos em bases reais.Nesse contexto, o curso será voltado para  pontos promissores da pesquisa de sistemas de recomendação com foco em aplicações de mercado.
+4ª Escola Avançada em Big Data Analysis
 
 ### Ministrantes
 
 Marcelo Manzato e Arthur Fortes
+
+### Resumo
+
+A pesquisa na área de sistemas de recomendação é amplamente focada em ajudar usuários individuais a encontrar itens nos quais estão interessados. Isso geralmente é feito aprendendo a classificar os itens recomendáveis com base na suposta relevância para cada usuário. O objetivo implícito subjacente de tal sistema é afetar os usuários de diferentes maneiras positivas, por exemplo, facilitando seus processos de pesquisa e decisão ou ajudando-os a descobrir coisas novas. Esse curso faz uma análise do campo dos sistemas de recomendação, incluindo conceitos relevantes, principais tecnologias, tendễncias de mercado e aplicação prática dos algoritmos mais conhecidos em bases reais.Nesse contexto, o curso será voltado para  pontos promissores da pesquisa de sistemas de recomendação com foco em aplicações de mercado.
 
 ### Conteúdo
 
